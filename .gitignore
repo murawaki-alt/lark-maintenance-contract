@@ -1,0 +1,20 @@
+# Miyabi
+.miyabi.yml
+.worktrees/
+logs/
+reports/
+*.log
+
+# Environment
+.env
+.env.local
+
+# Dependencies
+node_modules/
+target/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
