@@ -2,7 +2,6 @@
 .miyabi.yml
 .worktrees/
 logs/
-reports/
 *.log
 
 # Environment
